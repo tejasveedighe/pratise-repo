@@ -1,0 +1,1 @@
+// make a class name Person with name and age as variables
